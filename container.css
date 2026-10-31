@@ -1,6 +1,7 @@
 .main {
     display: flex;
     justify-content: space-evenly;
+    margin: 20px;
 }
 .one {
     background-color: antiquewhite;
@@ -27,7 +28,7 @@
     
 }
 .two {
-    background-color: antiquewhite;
+    background-color: rgb(99, 65, 20);
     height: 200px;
     width: 200px;
     display: flex;
@@ -51,7 +52,7 @@
     
 }
 .three {
-    background-color: antiquewhite;
+    background-color: rgb(221, 167, 97);
     height: 200px;
     width: 200px;
     display: flex;
@@ -79,7 +80,7 @@
     justify-content: space-between;
 }
 .four {
-    background-color: antiquewhite;
+    background-color: rgba(250, 235, 215, 0.351);
     height: 200px;
     width: 200px;
     display: flex;
@@ -90,7 +91,7 @@
    
 }
 .yell {
-    background-color: rgb(193, 44, 44);
+    background-color: rgb(208, 140, 140);
     height: 150px;
     width: 150px;
     border: 2px solid black;
@@ -103,7 +104,7 @@
     
 }
 .five {
-    background-color: antiquewhite;
+    background-color: rgba(250, 235, 215, 0.585);
     height: 200px;
     width: 200px;
     display: flex;
@@ -127,7 +128,7 @@
     
 }
 .six {
-    background-color: antiquewhite;
+    background-color: rgb(80, 146, 136);
     height: 200px;
     width: 200px;
     display: flex;
