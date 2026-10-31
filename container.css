@@ -1,3 +1,9 @@
+body {
+    border-width: 50px 20px 20px 20px;
+    border-style: solid;
+    border-color: rgb(68, 68, 117);;
+    margin: 0;
+}
 .main {
     display: flex;
     justify-content: space-evenly;
