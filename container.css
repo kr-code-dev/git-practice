@@ -1,0 +1,152 @@
+.main {
+    display: flex;
+    justify-content: space-evenly;
+}
+.one {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.red {
+    background-color: rgb(193, 44, 44);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.two {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.green {
+    background-color: rgb(114, 193, 44);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.three {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.yellow {
+    background-color: rgb(213, 179, 10);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.second {
+    display: flex;
+    justify-content: space-between;
+}
+.four {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.yell {
+    background-color: rgb(193, 44, 44);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.five {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.redd {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.six {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.gree {
+    background-color: rgb(171, 236, 8);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
