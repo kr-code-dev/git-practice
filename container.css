@@ -6,6 +6,7 @@ body {
 }
 .main {
     display: flex;
+    flex-direction: column;
     justify-content: space-evenly;
     margin: 20px;
 }
@@ -146,6 +147,486 @@ body {
 }
 .gree {
     background-color: rgb(171, 236, 8);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.seven {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.g {
+    background-color: rgb(171, 236, 8);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.eight {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.h {
+    background-color: rgb(171, 236, 8);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.nine {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.i {
+    background-color: rgb(171, 236, 8);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.ten {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.j {
+    background-color: rgb(171, 236, 8);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.eleven {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.k {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.twelve {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.l {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.thirteen {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.m {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.fourteen {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.n {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.fifteen {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.o {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.sixteen {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.p {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.seventeen {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.q {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.eighteen {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.r {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.nineteen {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.s {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.twenty {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.t {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.twenty-one {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.u {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.twenty-two {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.v {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.twenty-three {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.w {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.twenty-four {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.x {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.twenty-five {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.y {
+    background-color: rgb(191, 113, 4);
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    
+}
+.twenty-six {
+    background-color: rgb(80, 146, 136);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+.z {
+    background-color: rgb(191, 113, 4);
     height: 150px;
     width: 150px;
     border: 2px solid black;
